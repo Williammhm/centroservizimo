@@ -292,9 +292,9 @@ section {
 section h2 {
   position: relative;
   top: -60px;
-  background: var(--giallo);
   padding: 0.2rem 0;
   margin-bottom: 1.5rem;
+  color: var(--giallo);
 }
 
 
